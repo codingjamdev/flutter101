@@ -1,8 +1,8 @@
-# Getting started Flutter
+# Getting started flutter
 
 ## Description
 
-for flutter newbie
+This repo contains sample recipes that demonstrate how to build up and solve common problems while writing **flutter** apps. 
 
 ## See also
 
